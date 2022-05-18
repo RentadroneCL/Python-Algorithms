@@ -1,4 +1,4 @@
-# RENTADRONE-PYTHON-ALGORITHMS
+# RENTADRONE PYTHON ALGORITHMS
 Some Python scripts that we have developed as parts of our technical services. You can use them too...
 
 ## Measure_GUI.py
